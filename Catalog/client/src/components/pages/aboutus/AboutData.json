@@ -1,0 +1,17 @@
+[
+    {
+        "title":"30+ years in the business",
+        "description":["Managed by family",
+        "We're a community based company",
+        "Our customers are neighbors and friends",
+        "With us, you'll always be greeted with a smile"],
+        "image":"https://www.westend61.de/images/0001284383pw/male-customer-standing-with-female-owners-at-checkout-in-hardware-store-MASF14059.jpg",
+        "alignment": "flex-end"
+    },
+    {
+        "title":"We care about you",
+        "description":["We guarantee that you will always get the best service and assessment available. Come see it for yourself!"],
+        "image":"https://www.westend61.de/images/0000908351pw/salesman-discussing-with-couple-by-shelves-at-hardware-store-MASF02174.jpg",
+        "alignment": "flex-start"
+    }
+]
