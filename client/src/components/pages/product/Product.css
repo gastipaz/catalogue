@@ -1,0 +1,300 @@
+
+.product-row {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: center;
+    width: 90%;
+    height: fit-content !important;
+    column-gap: 10px;
+    min-height: calc(100vh - 60px);
+    margin-bottom: 20px;
+}
+
+.product-column-left {
+    display: flex;
+    overflow: hidden;
+    width: 100%;
+    height: fit-content;
+    align-items: center;
+    justify-content: flex-start;
+    flex-direction: column;
+}
+
+.product-data-container {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: flex-start;
+}
+
+.product-title-wrapper {
+    flex-direction: column !important;
+    align-items: flex-start !important;
+    width: 100% !important;
+}
+
+.image-container {
+    width: 95% !important;
+    overflow: hidden;
+    justify-content: center !important;
+    border-radius: 5px;
+    box-shadow: 0 0 15px rgba(0, 0, 0, 0.159);
+}
+
+.image-wrapper {
+    max-height: 50vh;
+    flex-direction: column;
+    justify-content: center !important;
+    height: 100% !important;
+    width: 100% !important;
+    overflow: hidden !important;
+    border-radius: 5px;
+    margin: 5px !important;
+}
+
+.image {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    border-radius: 5px;
+}
+
+.product-information-wrapper {
+    flex-direction: column;
+    padding: 5px 10px !important;
+    height: 100% !important;
+    border-radius: 5px;
+}
+
+.header-wrapper {
+    flex-direction: column;
+    align-items: flex-start !important;
+    justify-content: flex-start !important;
+    width: 100% !important;
+    height: 15% !important;
+    overflow: hidden;
+}
+
+.header {
+    font-size: 13px !important; 
+}
+
+.quantity-selector-wrapper {
+    justify-content: flex-start !important;
+    margin: 0 0 !important;
+    flex-direction: row;
+}
+
+.quantity-input {
+    background: white;
+    font-family: Montserrat;
+    font-weight: bold;
+    padding: 5px 20px;
+    margin: 0 0;
+    border: none;
+    border-radius: 5px;
+    height: 20px;
+    width: 10%;
+}
+
+.product-description-wrapper {
+    flex-direction: column;
+    align-items: flex-start !important;
+    width: 100% !important;
+    height: 40% !important;
+    overflow: hidden;
+}
+
+.product-description-text {
+    font-size: 15px !important;
+    text-align: justify !important;
+}
+
+.product-details-wrapper {
+    flex-direction: column;
+    align-items: flex-start !important;
+    width: 100% !important;
+    height: 45% !important;
+    overflow: hidden;
+}
+
+.details {
+    font-family: Montserrat;
+    font-size: 15px;
+}
+
+.cart-button-wrapper {
+    margin-bottom: 30px !important;
+    flex-direction: row;
+    align-items: flex-start !important;
+    justify-content: flex-start !important;
+    width: 100% !important;
+    overflow: visible;
+}
+
+.cart-button {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    padding: 10px 20px !important;
+    box-shadow: 0px 2px 10px rgba(0, 0, 0, 0.3);
+}
+
+.related-products-section {
+    display: flex;
+    border-radius: 5px;
+    width: 90%;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: flex-start;
+    overflow: hidden;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.3);
+    margin-bottom: 30px;
+}
+
+.related-products-header {
+    width: 100%;
+    background: #b48fff;
+    padding: 10px 20px;
+    color: #fce77e;
+}
+
+.related-products-container {
+    width: 100%;
+    height: fit-content;
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    flex-wrap: wrap;
+    background: #f6ecba;
+}
+
+.related-products-card {
+    width: 90% !important;
+    height: 200px;
+    align-items: flex-start !important;
+    justify-content: flex-start !important;
+    flex-direction: column !important;
+    overflow: hidden;
+    border-radius: 5px;
+    background: #b48fff;
+    box-shadow: 0px 2px 10px rgba(0, 0, 0, 0.468);
+}
+
+.compact-card-title {
+    display: flex;
+    align-items: center;
+    justify-content: flex-start;
+    background: #8e5bf5;
+    width: 100%;
+    height: 70px;
+    cursor: pointer;
+}
+
+.compact-card-title:hover {
+    text-decoration: underline;
+    color: #f6ecba;
+}
+
+.compact-card-title h3 {
+    color: #f6ecba;
+    font-size: 20px !important;
+    text-align: left !important;
+}
+
+.compact-card-info {
+    display: flex;
+    width: 100%;
+    overflow: hidden;
+    flex-direction: row;
+    justify-content: flex-start;
+}
+
+.thumbnail-wrapper {
+    width: 50% !important;
+    height: 150px !important;
+    overflow: hidden;
+    border-radius: 2px;
+}
+
+.thumbnail {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    border-radius: 5px;
+}
+
+.compact-card-details-wrapper {
+    flex-direction: column;
+    margin: 0 0 !important;
+    overflow: hidden;
+    margin-left: 10px !important;
+    width: 60% !important;
+    height: 150px !important;
+}
+
+.compact-card-text {
+    font-size: 20px !important;
+    font-weight: bold !important;
+    cursor: pointer;
+}
+
+.compact-card-text:hover {
+    text-decoration: underline;
+}
+
+.compact-card-price-wrapper {
+    flex-direction: column !important;
+    align-items: flex-start !important;
+    justify-content: space-between !important;
+    width: 100% !important;
+    height: 100% !important;
+    margin-bottom: 0px !important;
+}
+
+.compact-card-price-text {
+    font-size: 20px !important;
+    font-weight: bold !important;
+}
+
+@media screen and (min-width: 1200px) {
+    .product-row {
+        flex-direction: row;
+        width: 100%;
+        height: 100%;
+    }
+
+    .product-column-left {
+        width: 80% !important;
+        align-items: flex-start;
+    }
+
+    .product-data-container {
+        flex-direction: row;
+    }
+
+    .image-container {
+        width: 85% !important;
+    }
+
+    .image-wrapper {
+        max-height: none;
+        width: 100% !important;
+    }
+
+    .related-products-section {
+        width: 80%;
+    }
+
+    .related-products-container {
+        flex-direction: row;
+        justify-content: space-between;
+    }
+
+    .related-products-card {
+        width: 47% !important;
+        height: 250px !important;
+    }
+}

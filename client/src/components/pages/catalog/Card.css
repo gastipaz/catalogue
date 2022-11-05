@@ -1,0 +1,119 @@
+
+.card-container {
+    height: 300px !important;
+    width: 100% !important;
+    border-radius: 5px !important;
+    box-shadow: rgba(0, 0, 0, 0.271) 0px 4px 12px;
+    flex-direction: column;
+    overflow: hidden !important;
+    cursor: pointer;
+    transition: all 0.2s ease-in-out;
+    background: #b48fff;
+}
+
+.card-container:hover {
+    box-shadow: rgba(0, 0, 0, 0.751) 0px 4px 20px;
+    transition: all 0.2s ease-in-out;
+}
+
+.card-image {
+    align-items: flex-start !important;
+    height: 100% !important;
+    width: 100% !important;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    margin-bottom: 0 !important;
+    margin-top: 0 !important;
+}
+
+.card-actions {
+    height: 20% !important;
+    width: 100% !important;
+    flex-direction: row !important;
+    justify-content: space-between !important;
+    background: rgba(255, 255, 255, 0.621);
+    border-radius: 5px;
+    margin-bottom: 0 !important;
+    margin-top: 10px !important;
+    padding: 0 5px;
+}
+
+.card-title-wrapper {
+    flex-direction: column;
+    height: fit-content !important;
+    width: 100% !important;
+    background-color: #8e5bf5 !important;
+    margin-bottom: 0 !important;
+    margin-top: 0 !important;
+    overflow: hidden !important;
+    padding: 5px 5px !important;
+    white-space: normal;
+}
+
+.card-title {
+    font-size: 12px !important;
+    color: #fce77e;
+    text-align: center;
+    padding-left: 5px !important;
+    padding-right: 5px !important;
+    text-decoration: none;
+    text-overflow: ellipsis;
+}
+
+.card-title:hover {
+    text-decoration: underline;
+}
+
+.card-icon {
+    height: 20px;
+    width: 20px;
+    color: black;
+    cursor: pointer;
+}
+
+.card-price {
+    display: inline-block;
+    color: black;
+    font-size: 15px !important;
+}
+
+.quantity-selector {
+    background: #b48fff;
+    border-radius: 8px;
+    flex-direction: row;
+    align-items: space-between !important;
+    justify-content: space-between !important;
+    width: 80% !important;
+    padding: 0 10px;
+    height: fit-content !important;
+    margin: 0 0 !important;
+}
+
+.quantity-selector-icon {
+    color: #fce77e;
+    cursor: pointer;
+}
+
+.quantity {
+    font-size: 15px !important;
+    color: #fce77e;
+    font-weight: bold !important;
+}
+
+
+@media screen and (min-width: 1000px){
+
+    .card-container {
+        height: 300px !important;
+        width: 300px !important;
+    }
+
+    .card-title {
+        font-size: 15px !important;
+    }
+
+    .card-price {
+        font-size: 18px !important;
+    }
+}
