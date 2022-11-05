@@ -499,20 +499,6 @@
             "index": "pypi",
             "version": "==2.1.0"
         },
-        "kivy-deps.angle": {
-            "hashes": [
-                "sha256:27055e3a641a013b3415b46b46cc17e549fdacd3677b7a7c583dd0d8488200c1",
-                "sha256:4fe686fdee42953a444297bc162d8f3659f10aad21a4116fe3c078c940f04419",
-                "sha256:b109ce35c4d54613f91f5c033f82ff0816a1bc96d86b259cda4cb81c912f2888",
-                "sha256:b38e4da8dbe5933f56b0386561d89145b345bebaa61a1025d9f0988c99df3f7c",
-                "sha256:b7c78cadc20978185caf1a12faa98188c6ad9b4cb70245e0bff8d56c3da84f64",
-                "sha256:e9f11c08a8994f898205d999a85705e102488264f4d2aa62303e51e01ccdc125",
-                "sha256:f4fa1548d9a74043848979d0947be32c879fc3ac0cf0adab9f727ae1806441c0",
-                "sha256:f85c5d148b875418d4198e0f4a03da2c44fa40baf919d2eccdd7ea47a98f36e0"
-            ],
-            "index": "pypi",
-            "version": "==0.3.2"
-        },
         "kivy-deps.glew": {
             "hashes": [
                 "sha256:00f4ae0a4682d951266458ddb639451edb24baa54a35215dce889209daf19a06",
