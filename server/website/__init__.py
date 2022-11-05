@@ -22,8 +22,8 @@ def create_app():
     sess.init_app(app)
     migrate = Migrate()
 
-    from website import models
-    from website.views import views
+    from server.website import models
+    from .views import views
     
     migrate.init_app(app, db)
     
