@@ -17,7 +17,7 @@ const Product = ({ products }) => {
 
   useEffect(() => {
     const fetchData = async () => {
-      const result = await getData(`http://localhost:5000/product/${id}`);
+      const result = await getData(`/product/${id}`);
       setProductData(result.data.product);
       setLoading(false)
     }

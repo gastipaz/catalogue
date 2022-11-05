@@ -42,14 +42,14 @@ const Catalog = ({products, setProducts}) => {
 
   useEffect(() => {
     const fetchData = async () => {
-      const result = await getData("http://localhost:5000/catalog");
+      const result = await getData("/catalog");
       setProducts(result.data.products);
       setCategories(result.data.categories);
       setSubcategories(result.data.subcategories);
       setLoading(false)
     };
     const fetchMostPopular = async () => {
-      const result = await getData("http://localhost:5000/mostPopular");
+      const result = await getData("/mostPopular");
       setMostPopular(result.data.orders)
     };
     fetchData();

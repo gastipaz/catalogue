@@ -51,7 +51,7 @@ const Home = ({navigate}) => {
 
     useEffect(()=> {
       async function fetchData() {
-        const result = await getData("http://localhost:5000/withDiscount");
+        const result = await getData("/withDiscount");
         console.log(result.data?.discounts)
         setOfferProducts(result.data?.discounts)
       } 

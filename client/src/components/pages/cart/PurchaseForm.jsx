@@ -25,7 +25,7 @@ const PurchaseForm = ({setShowForm}) => {
 
     const handleSubmit = async (event) => {
         event.preventDefault();
-        const url = `http://localhost:5000/cart/success`
+        const url = `/cart/success`
         const result = await postData(url, {purchase_data:purchaseData, products_data:inCart});
         setOrders(result.data.orders);
         setInCart([]);
