@@ -82,7 +82,7 @@ class OrdersTable(db.Model):
 
 @event.listens_for(ProductsTable.__table__, 'after_create')
 def insert_data(*args, **kwargs):
-    with open('client/src/components/assets/data/products.json', encoding="mbcs") as products:
+    with open('client/src/components/assets/data/products.json', encoding="utf-8") as products:
         data = json.load(products)
 
     for value in data:
