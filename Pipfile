@@ -94,6 +94,9 @@ virtualenv-clone = "==0.5.7"
 wcwidth = "==0.2.5"
 webencodings = "==0.5.1"
 werkzeug = "==2.0.3"
+flask-cors = "*"
+flask-session = "*"
+flask-migrate = "*"
 
 [dev-packages]
 
