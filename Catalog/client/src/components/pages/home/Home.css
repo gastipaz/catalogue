@@ -1,0 +1,325 @@
+.home-row {
+    margin-top: 0px !important;
+    margin-bottom: 20px !important;
+    position: relative;
+    flex-direction: column !important;
+    justify-content: flex-start !important;
+    overflow: visible;
+    width: 100% !important;
+    height: 50vh !important;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.3);
+}
+
+.btn-arrow {
+    background: transparent;
+    border: none;
+}
+
+.left {
+    position: absolute;
+    top: 50%;
+    left: 1%;
+}
+
+.right {
+    position: absolute;
+    top: 50%;
+    right: 1%;
+}
+
+.arrow {
+    height: 40px;
+    width: 40px;
+    cursor: pointer;
+    position: relative;
+    z-index: 98;
+    cursor: pointer;
+    transition: all 0.2s ease-in-out;
+}
+
+.arrow:hover {
+    height: 45px;
+    width: 45px;
+    transition: all 0.2s ease-in-out;
+}
+
+.prev {
+    color: #b48fff;
+}
+
+.next {
+    color: #fce77e;
+}
+
+.home-column {
+    position: absolute;
+    top: 0%;
+    width: 100%;
+    height: 30%;
+    z-index: 50;
+    background: #f6ecbad4;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    box-shadow: 0px 0px 60px rgba(0, 0, 0, 0.473);
+}
+
+.selectors-column {
+    padding: 0 0 !important;
+    margin: 0 0 !important;
+    width: 100%;
+    height: 20%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: row;
+}
+
+.product-offer-btn {
+    background: #8e5bf550;
+    padding: 0 0 !important;
+    margin: 0 0 !important;
+    height: 100%;
+    border: none;
+    border-right: 1px solid rgba(71, 71, 71, 0.473) ;
+    width: 33.3%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    transition: all 0.2s ease-in-out;
+}
+
+.product-offer-btn:active {
+    transform: scale(0.9);
+    transition: all 0.2s ease-in-out;
+}
+
+.product-offer-btn:hover {
+    background: #fce77e43;
+}
+
+.slider-text-container {
+    flex-direction: column;
+    min-height: 65%;
+    justify-content: space-between !important;
+    height: 65% !important;
+}
+
+
+@keyframes offers-text {
+    from {
+        opacity: 0;
+        left: -5px;
+    }
+
+    to {
+        opacity: 1;
+        left: 0px;
+    }
+}
+
+.description {
+    position: relative;
+    background: linear-gradient(90deg, #43257e, #6827ebd0);
+    background-clip: text;
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    text-shadow: 0 0 20px rgba(0, 0, 0, 0.3);
+    width: 100%;
+    text-align: center !important;
+    animation: offers-text;
+    animation-duration: 0.2s;
+    animation-timing-function: ease-in;
+    animation-iteration-count: 1;
+}
+
+.product-cat {
+    background: linear-gradient(90deg, #43257e, #6827ebd0);
+    background-clip: text;
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    animation: offers-text;
+    cursor: pointer;
+    animation-duration: 0.2s;
+    animation-timing-function: ease-in-out;
+    animation-iteration-count: 1;
+}
+
+.offers-button-wrapper {
+    margin-top: 20px;
+}
+
+.offers-button {
+    border-radius: 5px !important;
+    box-shadow: 0 0 20px rgba(0, 0, 0, 0.3);
+}
+
+.offers-slider-container {
+    padding: 0 0 !important;
+    margin: 0 0 !important;
+    justify-content: flex-start !important;
+    width: 100% !important;
+    height: 100% !important;
+}
+
+.offers-slider {
+    position: relative;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    overflow: visible;
+    height: 100%;
+    min-height: 100%;
+    max-height: 100%;
+    width: 100%;
+}
+
+@keyframes offers-images {
+    from {
+        opacity: 0;
+    }
+
+    to {
+        opacity: 1;
+    }
+}
+
+.offers-slider div {
+    overflow: hidden;
+    position: absolute;
+    transition: all 0.2s ease-in-out;
+    animation: offers-images;
+    animation-duration: 0.5s;
+    animation-timing-function: ease-in;
+    animation-iteration-count: 1;
+}
+
+.offer-inactive {
+    display: none;
+}
+
+.offer-active {
+    width: 100%;
+    height: 100%;
+}
+
+.offer-image {
+    height: 100%;
+    width: 100%;
+    object-fit: cover;
+    object-position: 0% 50% !important;
+}
+
+.discount-products-container {
+    display: flex;
+    flex-direction: column;
+    border-radius: 5px;
+    align-items: center;
+    justify-content: flex-start;
+    padding-bottom: 10px;
+    width: 98%;
+    margin-top: 10px;
+    min-height: 20vh;
+    overflow: hidden;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.3);
+    margin-bottom: 20px !important;
+    background: rgba(196, 171, 247, 0.411);
+}
+
+.discounts-wrapper {
+    display: flex;
+    flex-flow: row wrap;
+    align-items: flex-start;
+    justify-content: flex-start;
+    min-width: 98%;
+    max-width: 98%;
+    padding: 0 0;
+}
+
+.offers-header {
+    width: 100% !important;
+    margin-top: 0px !important;
+    margin-left: 0px !important;
+    margin-right: 0px !important;
+    justify-content: flex-start !important;
+    padding-top: 10px !important;
+    padding-bottom: 10px !important;
+    background: #f6ecba;
+}
+
+.offer-wrapper {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 100%;
+}
+
+.remove-filter {
+    align-self: flex-end;
+    margin-bottom: 8px !important;
+}
+
+.remove-filter:hover {
+    cursor: pointer;
+    text-decoration: underline;
+}
+
+.title {
+    background: linear-gradient(90deg,#43257e, #6827ebd0 );
+    background-clip: text;
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent; 
+    text-shadow: 0 0 20px rgba(0, 0, 0, 0.3);
+}
+
+@media screen and (min-width: 600px) and (max-width: 1024px) {
+    .offer-wrapper {
+        width: 50%;
+    }
+}
+
+
+@media screen and (min-width: 1025px) {
+
+    .home-row {
+        flex-direction: row !important;
+    }
+
+    .home-column {
+        position: absolute;
+        left: 0%;
+        width: 30%;
+        height: 100%;
+        box-shadow: 0px -25px 60px rgba(0, 0, 0, 0.473);
+    }
+    
+    .selectors-column {
+        width: 30%;
+        height: 100%;
+        flex-direction: column;
+    }
+    
+    .product-offer-btn {
+        width: 100%;
+        height: 33.3%;
+        border-top: 1px solid rgba(71, 71, 71, 0.473) ;
+        border-right: none;
+    }
+    
+    .description {
+        width: 70%;
+    }
+    
+    .offers-slider-container {
+        width: 70% !important;
+    }
+    
+    .discount-products-container {
+        min-height: 50vh;
+    }
+    
+    .offer-wrapper {
+        width: 25%;
+    }
+}

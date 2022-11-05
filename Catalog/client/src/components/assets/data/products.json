@@ -1,0 +1,678 @@
+[
+    {
+        "name": "Standard Wheelbarrow",
+        "image": "https://marvel-b1-cdn.bc0a.com/f00000000139987/www.gardeners.com/globalassets/product-media-catalog/8609/200-299/8609219/8609219_01v_bosmere-folding-wheelbarrow-green.jpg",
+        "price": "119.00",
+        "stock": 15,
+        "description": "Ideal for gardening, hauling equipment, and everyday yard work. Folds up easily for transport and compact space-saving storage. Pneumatic rubber tire is easy to steer. Rugged powder-coated metal frame is durable and polyester tarpaulin is water-repellent. Just unhook the flap and lay the tarpaulin flat on the ground to sweep, shovel, or rake debris straight in!",
+        "details": [
+            "Steel handles, pu coated canvas, plastic wheel frame, foam grips",
+            "31 inches W x 56 inches D x 10 inches H",
+            "Weighs 8 lbs.",
+            "Assembly required",
+            "Protect from freezing temperatures"
+        ],
+        "category": "Gardening",
+        "subcategory": "Carts",
+        "discount": 20
+    },
+    {
+        "name": "Plastic wheelbarrow 75lt",
+        "image": "https://www.thewarehouse.co.nz/on/demandware.static/-/Sites-twl-master-catalog/default/dwa442b478/images/hi-res/9A/D5/R2538012_30.jpg",
+        "price": "98.00",
+        "stock": 15,
+        "description": "Ideal for gardening, hauling equipment, and everyday yard work. Folds up easily for transport and compact space-saving storage. Pneumatic rubber tire is easy to steer. Rugged powder-coated metal frame is durable and polyester tarpaulin is water-repellent. Just unhook the flap and lay the tarpaulin flat on the ground to sweep, shovel, or rake debris straight in!",
+        "details": [
+            "Steel handles, pu coated canvas, plastic wheel frame, foam grips",
+            "31 inches W x 56 inches D x 10 inches H",
+            "Weighs 8 lbs.",
+            "Assembly required",
+            "Protect from freezing temperatures"
+        ],
+        "category": "Gardening",
+        "subcategory": "Carts"
+    },{
+        "name": "True Temper wheelbarrow",
+        "image": "http://mobileimages.lowes.com/productimages/558441db-43a0-406f-996c-e29b9a2d6c10/47926798.jpg?size=pdhism",
+        "price": "189.00",
+        "stock": 15,
+        "description": "Ideal for gardening, hauling equipment, and everyday yard work. Folds up easily for transport and compact space-saving storage. Pneumatic rubber tire is easy to steer. Rugged powder-coated metal frame is durable and polyester tarpaulin is water-repellent. Just unhook the flap and lay the tarpaulin flat on the ground to sweep, shovel, or rake debris straight in!",
+        "details": [
+            "Steel handles, pu coated canvas, plastic wheel frame, foam grips",
+            "31 inches W x 56 inches D x 10 inches H",
+            "Weighs 8 lbs.",
+            "Assembly required",
+            "Protect from freezing temperatures"
+        ],
+        "category": "Gardening",
+        "subcategory": "Carts",
+        "discount": 20
+    },
+    {
+        "name": "Castellari Ergonomic Anvil Pruner",
+        "image": "https://www.gardeners.com/globalassets/product-media-catalog/8611/900-999/8611969/8611969_009_castellari-ergonomic-anvil-pruner.jpg?w=840&h=1120",
+        "price": "59.95",
+        "stock": 15,
+        "description": "Ideal for most pruning activities, the anvil design of this pruner ensures smooth, easy cuts. The handle design keeps your wrist in a natural position and prevents kickback — which can lead to fatigue or tendonitis. The curved counter-blade holds branches firmly during the cut and the “hollow on the blade” reduces friction and further ensures that the cut is smooth (better for the plant and you!). Blades are hot-forged high carbon steel for superior sharpness and durability. A slip-resistant coating on handles keeps your grip firm and consistent.",
+        "details": [
+            "High carbon steel, hot-forged aluminum, PVC",
+            "8.27 inches L x 2.36 inches W x 0.98 inches H",
+            "Weighs 7.7 oz."
+        ],
+        "category": "Gardening",
+        "subcategory": "Pruners",
+        "discount": 20
+    },
+    {
+        "name": "Gardener's Pro Pruner #2",
+        "image": "https://marvel-b1-cdn.bc0a.com/f00000000139987/www.gardeners.com/globalassets/product-media-catalog/8596/600-699/8596605/8596605_7113_gardeners-pro-pruner-number-2.jpg",
+        "price": "44.95",
+        "stock": 15,
+        "description": "Snip with confidence with our exclusive bypass pruners. Blades are long-wearing, with wire-cutting notch and sap groove. Lightweight, forged aluminum handles are coated with a non-slip comfort grip to keep them firmly in your hand and reduce fatigue. Superior quality you can count on!",
+        "details": [
+            "High carbon SL-5 steel, aluminum, PVC",
+            "8-1/2 inches L",
+            "2 inches blades"
+        ],
+        "category": "Gardening",
+        "subcategory": "Pruners",
+        "discount": 20
+    },
+    {
+        "name": "Pocket Snips",
+        "image": "https://www.gardeners.com/globalassets/product-media-catalog/8586/300-399/8586317/8586317gr_001e.jpg?w=840&h=1120",
+        "price": "17.95",
+        "stock": 15,
+        "description": "Gardeners love these compact snips. The ergonomic, non-slip grip and narrow, super-sharp blades let you make precision cuts without damaging nearby stems. Perfect for harvesting herbs, flowers, fruits and vegetables, as well as light pruning and deadheading. A sliding lock lets you stow them safely.",
+        "details": [
+            "Stainless steel blades with thermoplastic rubber ergonomic handles",
+            "5-1/2 inches L overall",
+            "Blades are 1-1/2 inches L"
+        ],
+        "category": "Gardening",
+        "subcategory": "Pruners"
+    },
+    {
+        "name": "Telescoping Ratchet Loppers",
+        "image": "https://www.gardeners.com/globalassets/product-media-catalog/8591/200-299/8591285/8591285_5361_ratchet-pruners-loppers-telescoping-long-handled.jpg?w=840&h=1120",
+        "price": "39.99",
+        "stock": 15,
+        "description": "Easy-to-adjust telescoping handles and large ratcheting head combine to make quick work of your most challenging pruning jobs. Anvil-style pruners like these are especially good for cutting through tough, dry wood. A non-stick coating on the blade aids in smooth cutting and easy release. Non-slip handles provide a firm grip. Blade lock keeps them safely closed when not in use. Lightweight aluminum handles and sturdy steel head.",
+        "details": [
+            "Aluminum, steel, polypropylene, TPR",
+            "Handles telescope from 28 inches to 40 inches long",
+            "Jaw opens up to 2-1/2 inches wide",
+            "Weighs 4 lbs."
+        ],
+        "category": "Gardening",
+        "subcategory": "Pruners"
+    },
+    {
+        "name": "Folding Saw, 8 inches",
+        "image": "https://www.gardeners.com/globalassets/product-media-catalog/8591/200-299/8591282/8591282_5373_folding-saw-pruning-and-camp-saw.jpg?w=840&h=1120",
+        "price": "14.99",
+        "stock": 15,
+        "description": "When pruners and loppers don't make the cut, turn to this Japanese-style pruning saw. High-carbon steel, 8 inches serrated blade cuts through limbs up to 5-1/2 inches in diameter. Cuts on both push and pull strokes. Blade locks securely open during use, folds for safe transport and storage. The teeth are sharpened on three sides for efficient cutting and impulse hardened for durability.",
+        "details": [
+            "High carbon SK-5 steel, plastic",
+            "17-1/2 inches L overall when open",
+            "Blade is 8 inches L",
+            "9-1/2 teeth per inch"
+        ],
+        "category": "Gardening",
+        "subcategory": "Pruners"
+    },
+    {
+        "name": "Sun Joe Shovelution Steel Blade Shovel with Spring Assist Handle",
+        "image": "https://www.gardeners.com/globalassets/product-media-catalog/8599/100-199/8599166/8599166_03v.jpg?w=840&h=1120",
+        "price": "69.99",
+        "stock": 15,
+        "description": "Dig in and give your back a break in the yard and garden — shovel smarter, not harder! No more heavy lifting or lower back strain with the Shovelution 44” Round Point Utility Digging Shovel. This rugged, forged steel pointed 9-inch blade easily pierces both sod and soil, while the ergonomically-designed spring-assist handle sends lifting leverage to the lower hand to easily lift heavy loads of dirt and mulch, or dig up shrubs, plant trees and cut trenches with minimal effort. Shovelution greatly reduces the effort, strain and potential injury involved in shoveling, using the powerful muscles of your upper body to do the lifting and throwing to reduce back strain by up to 30%, so you can lift more, and throw farther.",
+        "details": [
+            "Steel, plastic",
+            "44 inches L with 9 inches blade",
+            "Weighs 4 lbs.11 oz.",
+            "Protect from freezing temperatures"
+        ],
+        "category": "Gardening",
+        "subcategory": "Shovels",
+        "discount": 20
+    },
+    {
+        "name": "Gardener's Lifetime Mini Shovel",
+        "image": "https://www.gardeners.com/globalassets/product-media-catalog/8608/800-899/8608890/8608890_0949_gardeners-lifetime-dewit-mini-shovel.jpg?w=840&h=1120",
+        "price": "37.95",
+        "stock": 15,
+        "description": "Our Gardener's Lifetime tools are hand-forged in Holland from the finest high-carbon Swedish boron steel by DeWit®, a fifth-generation family-owned business. Unlike stamped steel tools that tend to be flimsy, these are ready for a lifetime of use by serious gardeners. The steel tangs extend into sustainable grown hardwood handles, so that they're sturdy, ultra durable, and comfortable to use.",
+        "details": [
+            "Swedish boron steel, FSC European ash wood handle",
+            "13 inches L overall; handle is 5 inches L; tool head is 5.25 inches L x 4.25 inches W",
+            "Weighs 9 oz."
+        ],
+        "category": "Gardening",
+        "subcategory": "Shovels",
+        "discount": 20
+    },
+    {
+        "name": "Square mouth shovel",
+        "image": "https://cdn11.bigcommerce.com/s-tu03jpzuky/images/stencil/980x980/products/652/2119/100962__49318.1556188962.jpg?c=2&imbypass=on",
+        "price": "35.99",
+        "stock": 15,
+        "description": "Dig in and give your back a break in the yard and garden — shovel smarter, not harder! No more heavy lifting or lower back strain with the Shovelution 44” Round Point Utility Digging Shovel. This rugged, forged steel pointed 9-inch blade easily pierces both sod and soil, while the ergonomically-designed spring-assist handle sends lifting leverage to the lower hand to easily lift heavy loads of dirt and mulch, or dig up shrubs, plant trees and cut trenches with minimal effort. Shovelution greatly reduces the effort, strain and potential injury involved in shoveling, using the powerful muscles of your upper body to do the lifting and throwing to reduce back strain by up to 30%, so you can lift more, and throw farther.",
+        "details": [
+            "Steel, plastic",
+            "44 inches L with 9 inches blade",
+            "Weighs 4 lbs.11 oz.",
+            "Protect from freezing temperatures"
+        ],
+        "category": "Gardening",
+        "subcategory": "Shovels"
+    },
+    {
+        "name": "Japanese Beetle Killer",
+        "image": "https://www.gardeners.com/globalassets/product-media-catalog/8586/900-999/8586927/8586927_001ed.jpg?w=840&h=1120",
+        "price": "9.95",
+        "stock": 15,
+        "description": "Japanese beetles are voracious eaters and can cause extensive damage to many garden and landscape plants by skeletonizing leaves and ruining flowers. This pyrethrin-based insecticide is an effective way to control these pests. In addition to controlling Japanese beetles, it also controls cucumber beetles, flea beetles, cabbageworms, Colorado potato beetles, and more. Comes in a convenient, ready-to-use 32-ounce spray bottle.",
+        "details": [
+            "Pyrethrins (.02%), piperonyl butoxide (0.20%)",
+            "32 ounces in ready-to-spray bottle",
+            "Always read and follow label directions carefully"
+        ],
+        "category": "Gardening",
+        "subcategory": "Pest-control"
+    },
+    {
+        "name": "Captain Jack's Neem Oil Spray, 32 Oz.",
+        "image": "https://www.gardeners.com/globalassets/product-media-catalog/8586/800-899/8586855/8586855_572.jpg?w=840&h=1120",
+        "price": "12.99",
+        "stock": 15,
+        "description": "This organic, multipurpose pest control belongs in the tool shed of every gardener. Derived from the seed of the neem tree, it controls a wide variety of common garden insect pests such as aphids as well as fungal diseases. It can also be used as a dormant spray to control overwintering eggs of various insect pests.",
+        "details": [
+            "Active ingredient: clarified hydrophobic extract of neem oil",
+            "32-oz. ready-to-use spray bottle",
+            "Certified organic",
+            "Always read and follow label directions carefully"
+        ],
+        "category": "Gardening",
+        "subcategory": "Pest-control"
+    },
+    {
+        "name": "Bio Insecticide Indoor/Outdoor",
+        "image": "https://www.gardeners.com/globalassets/product-media-catalog/8612/600-699/8612698/8612698_01v_arber-bio-insecticide.jpg?w=840&h=1120",
+        "price": "29.95",
+        "stock": 15,
+        "description": "Prevent insect and mite build-up plus suppress soil-dwelling pests with this all-natural bio insecticide. The unique formulation utilizes good bacteria that target pests but are harmless to beneficial insects and pollinators. Help your plants thrive with this effective blend of 20+ natural compounds.",
+        "details": [
+            "Heat-killed Burkholderia spp, strain A396* and spent fermentation media: 94.46%",
+            "Other Ingredients: 5.54%",
+            "Contains not less than 1,500 Beet Armyworm Killing Units (BAWKU)/mg of active ingredient.",
+            "1 pint / 16 oz. concentrate",
+            "Organic"
+        ],
+        "category": "Gardening",
+        "subcategory": "Pest-control"
+    },
+    {
+        "name": "Harden 590216 20oz Professional Fibreglass Handle Claw Hammer",
+        "image": "https://cdn.shopify.com/s/files/1/0038/1206/5393/products/590216_edit.jpg?v=1646039378",
+        "price": "168.00",
+        "stock": 15,
+        "details": [
+            "Head made from forged fine grain steel.",
+            "Dual coloured fibreglass shaft with comfortable ergonomics cushion grip.",
+            "33.02 x 13.97 x 3.18 cm;",
+            "839 Grams"
+        ],
+        "category": "Tools",
+        "subcategory": "Hammers",
+        "discount": 10
+    },
+    {
+        "name": "Estwing EWE3-22S 22oz Solid Steel Framing Hammer",
+        "image": "https://cdn.shopify.com/s/files/1/0038/1206/5393/products/502178.jpg?v=1646030972",
+        "price": "115.00",
+        "stock": 15,
+        "category": "Tools",
+        "subcategory": "Hammers",
+        "discount": 10
+    },
+    {
+        "name": "Kincrome K9083 1.35kg (3Lb) 250mm Ironkore Club Hammer",
+        "image": "https://cdn.shopify.com/s/files/1/0038/1206/5393/products/kincrome-k9083-135kg-3lb-250mm-ironkore-club-hammer_1800x1800.jpg?v=1646046685",
+        "price": "64.95",
+        "stock": 15,
+        "details": [
+            "Hot rolled steel core",
+            "Textured rubber grip for improved shock absorption",
+            "Strike zone for increased strike accuracy",
+            "Dual striking faces",
+            "Fully Welded Construction",
+            "Heat Treated Carbon Steel Head",
+            "Head to core separation can withstand up to 10 tonne of force",
+            "4 x 5.5mm reinforced steel bars, fully welded, with 4 fixed retaining plates"
+        ],
+        "category": "Tools",
+        "subcategory": "Hammers"
+    },
+    {
+        "name": "Kincrome K9063 1.35kg (3Lb) 260mm Club Hammer",
+        "image": "https://cdn.shopify.com/s/files/1/0038/1206/5393/products/kincrome-k9063-135kg-3lb-260mm-club-hammer_1800x1800.jpg?v=1646046672",
+        "price": "40.95",
+        "stock": 15,
+        "details": [
+            "Fibreglass handle with Graphite core, for greater strength and durability",
+            "Milled striking face with etching to prevent slipping with striking surface",
+            "Ergonomic rubber handle",
+            "Rubber collar at the base of the head to prevent damage if miss-hit occurs",
+            "Head Weight: 3lb",
+            "Length: 260mm"
+        ],
+        "category": "Tools",
+        "subcategory": "Hammers"
+    },
+    {
+        "name": "Kincrome BC8C 200mm (8 inch) Mini Bolt Cutter",
+        "image": "https://cdn.shopify.com/s/files/1/0038/1206/5393/products/kincrome-bc8c-200mm-8-mini-bolt-cutter_1800x1800.jpg?v=1646042045",
+        "price": "55.00",
+        "stock": 15,
+        "details": [
+            "Chrome Molybdenum construction with hardened cutting jaws",
+            "High leverage design (For maximum cutting power with minimum effort)",
+            "Spring loaded for fast repeat cuts",
+            "Triple injection moulded soft grip handles",
+            "Jaws hardened to HRC 55-66",
+            "Can cut up to 30HRC Ø 4mm max (nails, bolts, wire, steel)",
+            "Maximum jaw opening: 8mm",
+            "Portable compact design",
+            "Locking Latch",
+            "Ideal for cutting wire, fencing, nails, bolts, cotter and split pins & more"
+        ],
+        "category": "Tools",
+        "subcategory": "Bolt cutters"
+    },
+    {
+        "name": "Grip 26040 760mm (30 inch) Heavy Duty Bolt Cutters",
+        "image": "https://cdn.shopify.com/s/files/1/0038/1206/5393/products/grip-26040-760mm-30-heavy-duty-bolt-cutters_1800x1800.jpg?v=1646037059",
+        "price": "65.00",
+        "stock": 15,
+        "details": [
+            "Drop forged, heat treated high carbon alloy steel jaws with compound cutting action",
+            "Size - 30 inches"
+        ],
+        "category": "Tools",
+        "subcategory": "Bolt cutters"
+    },
+    {
+        "name": "MILWAUKEE 24 inches Bolt Cutter",
+        "image": "https://images.thdstatic.com/productImages/63fade4a-0f07-449c-a354-49b9ab0782cc/svn/milwaukee-bolt-cutters-48-22-4024-64_1000.jpg",
+        "price": "65.00",
+        "stock": 15,
+        "details": [
+            "Drop forged, heat treated high carbon alloy steel jaws with compound cutting action",
+            "Size - 24 inches"
+        ],
+        "category": "Tools",
+        "subcategory": "Bolt cutters"
+    },
+    {
+        "name": "Kincrome 1702016 400mm (16 inch) Multi-Grip Pliers",
+        "image": "https://cdn.shopify.com/s/files/1/0038/1206/5393/products/kincrome-1702016-400mm-16-multi-grip-pliers_1800x1800.jpg?v=1646041886",
+        "price": "125.00",
+        "stock": 15,
+        "details": [
+            "Manufactured from Chrome Vanadium Steel (Cr-V) hardened, tempered and chrome plated with five position heavy duty groove joint adjustable head",
+            "Comfortable cushion-grip handles"
+        ],
+        "category": "Tools",
+        "subcategory": "Pliers",
+        "discount": 10
+    },
+    {
+        "name": "Channellock 3248 215mm (8.5 inch) Insulated Linesman Pliers",
+        "image": "https://cdn.shopify.com/s/files/1/0038/1206/5393/products/3248_1800x1800.jpg?v=1646027549",
+        "price": "65.00",
+        "stock": 15,
+        "details": [
+            "317 Crosshatch Pattern On Jaws",
+            "Grips work tightly",
+            "Precision Machined Knife And Anvil Style Cutting Edges",
+            "Ensures perfect mating and superior cutting edge life",
+            "Laser Heat-Treated",
+            "For longer lasting cutting edges",
+            "High Carbon Steel",
+            "For superior performance and specially coated for ultimate rust prevention"
+        ],
+        "category": "Tools",
+        "subcategory": "Pliers",
+        "discount": 10
+    },
+    {
+        "name": "Channellock 3238 203mm (8 inch) 1000V Insulated Cutting Pliers",
+        "image": "https://cdn.shopify.com/s/files/1/0038/1206/5393/products/3238_1800x1800.jpg?v=1646027547",
+        "price": "64.00",
+        "stock": 15,
+        "details": [
+            "Precision Machined Knife And Anvil Style Cutting Edges - Ensures perfect mating and superior cutting edge life.",
+            "Laser Heat-Treated, for longer lasting cutting edges",
+            "High Carbon Steel - For superior performance and specially coated for ultimate rust prevention",
+            "CHANNELLOCK BLUE®grips - For comfortable performance"
+        ],
+        "category": "Tools",
+        "subcategory": "Pliers"
+    },
+    {
+        "name": "Milwaukee 48226101 203mm (8 inch) Long Nose Pliers",
+        "image": "https://cdn.shopify.com/s/files/1/0038/1206/5393/products/milwaukee-48226101-203mm-8-long-nose-pliers_1800x1800.jpg?v=1646068354",
+        "price": "33.50",
+        "stock": 15,
+        "description": "The Milwaukee® 203mm (8 inch) Long Nose Pliers feature a 2 inches gripping nose for pulling wire and material through rough-in holes and other tight spaces. The pliers' head features integrated reaming ridges (patent pending) for removing burrs from the inside of smooth pipe as well as an integrated wire cutter. For added functionality, the Milwaukee® Long Nose Pliers feature an integrated fish tape puller. Milwaukee® pliers feature over-molded comfort grips, which will not peel under jobsite conditions. All Milwaukee® pliers are forged for strength and feature rust protection for long life.",
+        "details": [
+            "50mm (2 inches) Gripping Nose Reaming Head Design Up to 25mm (1 inch) Wire Cutter",
+            "On-Board Fish Tape Puller",
+            "Comfort Grips Will Not Peel",
+            "Forged Design for Added Strength",
+            "Rust Resistance"
+        ],
+        "category": "Tools",
+        "subcategory": "Pliers"
+    },
+    {
+        "name": "Kincrome 32110 PH2 x 100mm Go-Through Phillips Screwdriver",
+        "image": "https://cdn.shopify.com/s/files/1/0038/1206/5393/products/kincrome-32110-ph2-x-100mm-go-through-phillips-screwdriver_1800x1800.jpg?v=1646041933",
+        "price": "12.50",
+        "stock": 15,
+        "description": "Blade manufactured from Chrome Vanadium Steel (CR-V), hardened and tempered",
+        "details": [
+            "The ergonomically designed handle made from P.V.C. & rubber compound give anti-slip and positive grip",
+            "Includes Hex Bolster allowing you to utilize a spanner or ratchet when tightening is required",
+            "Magnetic tip for greater fastener control"
+        ],
+        "category": "Tools",
+        "subcategory": "Screwdrivers"
+    },
+    {
+        "name": "Fluke ISLS5 4mm x 100mm (4 inch) 1000V Insulated Slotted Screwdriver",
+        "image": "https://cdn.shopify.com/s/files/1/0038/1206/5393/products/ISLS5_1800x1800.jpg?v=1646032951",
+        "price": "22.00",
+        "stock": 15,
+        "details": [
+            "Ergonomic handle that adapts to user hand, causes less strain and work fatigue and provides maximum torque.",
+            "Full length, impact proof handle core is coated with soft-grip outer material, hanging hole for extra security, and anti-roll handle design.",
+            "Slim insulated shaft allows access in hard to reach areas.",
+            "Manufactured from CMV steel for superior durability."
+        ],
+        "category": "Tools",
+        "subcategory": "Screwdrivers"
+    },
+    {
+        "name": "Gearwrench 80007H 100mm (4 inch) x PH2 Phillips Dual Material Screwdriver",
+        "image": "https://cdn.shopify.com/s/files/1/0038/1206/5393/products/80007H_1800x1800.jpg?v=1646033242",
+        "price": "16.50",
+        "stock": 15,
+        "details": [
+            "Meets or exceeds ASME standards for performance and quality",
+            "Available in a variety of blade lengths to meet the demands of any job",
+            "Ergonomic tri-lobe dual material handle provides the optimal balance of strength and efficiency",
+            "“Speed Zone” handle design for faster rotation in low-torque applications",
+            "Dual material handle offers a more comfortable grip and higher performance",
+            "Blades laser etched with part number and size for quick identification",
+            "Non-slip black oxide tip for more secure fit in fastener",
+            "Oil and solvent resistant handle provides a longer tool life",
+            "Full polish alloy steel screwdriver shaft prevents rust and corrosion"
+        ],
+        "category": "Tools",
+        "subcategory": "Screwdrivers"
+    },
+    {
+        "name": "Milwaukee 48222859 Demolition Driver",
+        "image": "https://cdn.shopify.com/s/files/1/0038/1206/5393/products/48222859_1800x1800.jpg?v=1654567320",
+        "price": "29.00",
+        "stock": 15,
+        "description": "The Milwaukee® Demolition Driver features a reinforced full-metal core designed to give you maximum job site toughness and durability. The hammer-ready steel strike cap with the prying and chiseling tip are designed to withstand the most aggressive demolition screwdriver applications. The forged steel shank offers longer life and features a wrench-ready square design to deliver additional leverage.",
+        "details": [
+            "Reinforced Core and Handle",
+            "Larger Strike Surfaces",
+            "Reinforced Tip",
+            "Cushion Handle"
+        ],
+        "category": "Tools",
+        "subcategory": "Screwdrivers"
+    },
+    {
+        "name": "Kincrome K5527 14 Piece TorqueMaster Screwdriver Set",
+        "image": "https://cdn.shopify.com/s/files/1/0038/1206/5393/products/K5527_1800x1800.jpg?v=1646046033",
+        "price": "125.00",
+        "stock": 15,
+        "description": "TorqueMaster® represents decades of fastening innovation. Incorporating a Tri-Lobe design that dovetails with the hand, and Gel-Grip for increased torque and turning power, as well as precision machined S3 SVCM Alloy Steel blades for durability. TorqueMaster® incorporates professional grade features such as colour coding and drive indicators that are visible from all angles and make it incredibly easy to find the screwdriver that you need, whether it's in your tool box or tool belt. This 13 Piece set also includes a handy storage blow moulded case (BMC) to keep your screwdrivers together, and can act as a storage tray for your tool box simply by cutting the hinges to remove the lid.",
+        "details": [
+            "S3 SVCM Alloy Steel, hardened, tempered and satin chrome plated",
+            "Colour coding and drive indicators for easy identification",
+            "Powdercoated shaft",
+            "Tri-Lobe design that dovetails with the hand",
+            "Up to 50% more turning power than conventional screwdrivers",
+            "Magnetic tips for greater fastener control",
+            "Includes handy blow moulded case for storage"
+        ],
+        "category": "Tools",
+        "subcategory": "Screwdrivers",
+        "discount": 10
+    },
+    {
+        "name": "Kincrome EVA420T 16 Piece Screwdriver Set with EVA Tray",
+        "image": "https://cdn.shopify.com/s/files/1/0038/1206/5393/products/EVA420T_1800x1800.jpg?v=1646042174",
+        "price": "229.00",
+        "stock": 15,
+        "description": "Kincrome EVA Trays have been specifically designed to protect and maintain your Kincrome Professional Quality Tools®. These tool trays are custom made to suit Kincrome Tool Chests and Boxes. Kincrome EVA Trays make selection of your tools easier and quicker - saving you valuable time.",
+        "details": [
+            "Suits Shallow EVOLUTION Chests 16 Piece TORQUEMASTER® Screwdriver Set",
+            "8 Screwdrivers - Blade: 3mm x 75mm, 4mm x 100mm, 5mm x 100mm, 5mm x 150mm, 6mm x 100mm, 8mm x 150mm, 6mm x 38mm, 9.5mm x 250mm",
+            "5 Screwdrivers - Phillips: No.0 x 75mm, No.1 x 75mm, No.2 x 100mm, No.2 x 38mm, No.3 x 150mm",
+            "Bit holder Driver 6mm Hex Drive",
+            "Magnetiser & Demagnetiser",
+            "Spinner Handle 1/4 Drive"
+        ],
+        "category": "Tools",
+        "subcategory": "Screwdrivers",
+        "discount": 10
+    },
+    {
+        "name": "Milwaukee 4932472003 12 Piece Screwdriver Set",
+        "image": "https://cdn.shopify.com/s/files/1/0038/1206/5393/products/4932472003_1800x1800.jpg?v=1653344894",
+        "price": "64.95",
+        "stock": 15,
+        "description": "The 12 piece screwdriver set features hardened tips & forged shanks and provides professional grade solutions and durability to the user. Bit types are marked on the cap of each tool for quick identification and increased efficiency.The comfortable Tri-Lobe handle allows users to comfortably apply more leverage.",
+        "details": [
+            "Comfortable Tri-Lobe handle optimized for maximum user comfort and high torque applications.",
+            "Permanent visible ID markings allows for quick tool identification.",
+            "Landyard hole for easy attachment to a safety system.",
+            "Hardened magnetic tips for maximum durability and fastener retention.",
+            "Anti roll, 3 sided collar on the handle."
+        ],
+        "category": "Tools",
+        "subcategory": "Screwdrivers"
+    },
+    {
+        "name": "OX Tools OX-T500404 4 Piece Trade Level Set",
+        "image": "https://cdn.shopify.com/s/files/1/0038/1206/5393/products/OX-T500404_1800x1800.jpg?v=1651561004",
+        "price": "159.00",
+        "stock": 15,
+        "details": [
+            "Heavy duty 4 piece aluminium trade level set",
+            "Strong lightweight aluminium profile for longer life",
+            "Uv resistant solid acrylic vials with a lifetime warranty",
+            "Accuracy of .05mm or .0005in/in",
+            "Milled surface on base up to 1200mm length",
+            "Heavy duty rubber end caps for drop shock resistance"
+        ],
+        "category": "Tools",
+        "subcategory": "Levels",
+        "discount": 10
+    },
+    {
+        "name": "Stabila 96-2/120 1200mm 3-Vial Trade Spirit Box Level",
+        "image": "https://cdn.shopify.com/s/files/1/0038/1206/5393/products/stabila-96-2120-1200mm-3-vial-trade-spirit-box-level_1800x1800.jpg?v=1646083611",
+        "price": "125.00",
+        "stock": 15,
+        "details": [
+            "Ultra-rigid aluminum profile with reinforcing ribs for high stability and secure hold while working.",
+            "Two vertical vials for quick readings in any position.",
+            "End caps with an anti-slip stopper for a firm seat when marking.",
+            "Shock-absorbing end caps the two-component material mix protects the profile against impact.",
+            "Removable end caps exact positioning and marking right up into the corners.",
+            "Easy to clean thanks to the electrostatic powder coating.",
+            "Spirit level with two precision-milled measuring surfaces (coated from 1830mm).",
+            "Accurate measuring in all positions.",
+            "STABILA installation technology ensures long-term accuracy measuring accuracy in normal position is ± 0.5 mm/m and ± 0.75 mm/m in reverse position."
+        ],
+        "category": "Tools",
+        "subcategory": "Levels"
+    },
+    {
+        "name": "Stabila 83S/100 1000mm 3-Vial Die Cast Trade Spirit Level",
+        "image": "https://cdn.shopify.com/s/files/1/0038/1206/5393/products/w83s_47fc1937-5f7d-4d41-9418-d4bb9bd32e73_1800x1800.jpg?v=1646083591",
+        "price": "265.00",
+        "stock": 15,
+        "details": [
+            "Extremely tough, cast aluminum profile.",
+            "Particularly practical the horizontal vial can be read from 4 sides, the vertical vials from 3 sides.",
+            "Two vertical vials for quick readings in any position.",
+            "Large finger-grip openings for easy and comfortable use.",
+            "Spirit level with two precision-milled measuring surfaces no discolorations on the surface for example, on fair-faced brickwork.",
+            "Continuous bridge over the horizontal vial increases the stability of the profile.",
+            "Easy cleaning dirt can be removed thanks to the electrostatic powder coating.",
+            "High-precision measuring in all positions.",
+            "STABILA installation technology ensures long-term accuracy measuring accuracy in normal and reverse position of ± 0.5 mm/m."
+        ],
+        "category": "Tools",
+        "subcategory": "Levels",
+        "discount": 10
+    },
+    {
+        "name": "Stanley 33-732 8m FatMax Blade Armour Tape Measure",
+        "image": "https://cdn.shopify.com/s/files/1/0038/1206/5393/products/stanley-33-732-8m-fatmax-blade-armour-tape-measure_1800x1800.jpg?v=1646083804",
+        "price": "32.00",
+        "stock": 15,
+        "details": [
+            "3-Rivet End Hook",
+            "Blade Armor™ coating on initial section of blade",
+            "Mylar Polyester coated blade extends blade life",
+            "Patented airlock slide lock for easy locking",
+            "True Zero™ end hook and case dimension marking allow both inside and outside measuring"
+        ],
+        "category": "Tools",
+        "subcategory": "Tape measures",
+        "discount": 10
+    },
+    {
+        "name": "Milwaukee 48220510 10m Compact Magnetic Tape Measure",
+        "image": "https://cdn.shopify.com/s/files/1/0038/1206/5393/products/48220510_1800x1800.jpg?v=1646067707",
+        "price": "34.00",
+        "stock": 15,
+        "description": "Our Compact Magnetic Tape Measure has up to 30cm of standout and a magnet that easily attaches to EMT & steel studs. The tape is wear and impact-resistant with nylon blade protection and an additional anti-tear coating on the first 15cm of the blade, reducing tape tear. Built to withstand the jobsite, the compact measuring tapes are constructed with a 5-point reinforced frame for impact resistance.",
+        "details": [
+            "5PT Reinforced frame to help protect against damage from dropping",
+            "Rip & Wear Resistant Blade",
+            "SAE/Metric Printing",
+            "Finger stop which helps deliver tape retraction control",
+            "Magnetic hook designed for scoring",
+            "Stamped steel belt clips"
+        ],
+        "category": "Tools",
+        "subcategory": "Tape measures",
+        "discount": 10
+    },
+    {
+        "name": "Crescent NE313M 3m Shockforce Nite Eye Keychain Tape Measure",
+        "image": "https://cdn.shopify.com/s/files/1/0038/1206/5393/products/NE313M_1800x1800.jpg?v=1646028672",
+        "price": "5.95",
+        "stock": 15,
+        "details": [
+            "Innovative high contrast matte black blade with green increments for enhanced visibility",
+            "360° extra wide end hook for easier grip on various shapes & surfaces",
+            "Easy to use blade lock button",
+            "Sturdy full loop keychain with split ring",
+            "Drop tested at 30 meters for real life, on the job durability",
+            "Dual-sided blade print with vertical quick read scale on underside for overhead and hard to reach measurements",
+            "Full 4 meters of standout",
+            "Steel tether point offers increased safety capability when working at height",
+            "Tether point can also be used for scribing and drawing arcs during layout"
+        ],
+        "category": "Tools",
+        "subcategory": "Tape measures"
+    },
+    {
+        "name": "Bahco ADJUST3 3 Piece Adjustable Wrench Kit",
+        "image": "https://cdn.shopify.com/s/files/1/0038/1206/5393/products/ADJUST3_1800x1800.jpg?v=1646023779",
+        "price": "99.00",
+        "stock": 15,
+        "details": [
+            "Set of 3 adjustable wrenches 80 series includes: 8070, 8071 and 8072",
+            "The jaw does not fall out even at maximum opening of the wrench",
+            "Head combines slim design for accessibility with strength for performance",
+            "Laser scale in mm for pre-adjusting and accurate measurement",
+            "High-performance alloy steel forged in one single piece",
+            "Left turning screw",
+            "Standards: ISO 6787, DIN 3117, ASME B107.8-2003 and BS 6333",
+            "Parallel jaws placed at a 15° angle provide a firm grip and best reach",
+            "Wide handle for comfort in use",
+            "Accurate jaw movement",
+            "Ultimate strength through precision hardening and high-performance alloy steel"
+        ],
+        "category": "Tools",
+        "subcategory": "Wrenches"
+    },
+    {
+        "name": "Kincrome K040007 450mm (18 inches) Adjustable Wrench",
+        "image": "https://cdn.shopify.com/s/files/1/0038/1206/5393/products/kincrome-k040007-450mm-18-adjustable-wrench_1800x1800.jpg?v=1646042475",
+        "price": "169.00",
+        "stock": 15,
+        "description": "Manufactured from drop forged Chrome Vanadium Steel (Cr-V), nickel plated",
+        "details": [
+            "Manufactured precisely for professional use",
+            "Measure scale marked on jaws",
+            "18 - 25% wider jaw opening than some standard models",
+            "Wide grip body for extra comfort"
+        ],
+        "category": "Tools",
+        "subcategory": "Wrenches",
+        "discount": 10
+    },
+    {
+        "name": "Bahco 86 614mm (24 inches) Heavy Duty Wide Jaw Adjustable Wrench",
+        "image": "https://cdn.shopify.com/s/files/1/0038/1206/5393/products/86_87_1800x1800.jpg?v=1646023761",
+        "price": "299.00",
+        "stock": 15,
+        "details": [
+            "Large size and wide opening",
+            "Head angle 22.5° provides better accessibility",
+            "Laser scale in mm for pre-adjusting and accurate measurement",
+            "High-performance alloy steel forged in single piece",
+            "Phosphate finish, precision-hardened and anti-corrosion treated",
+            "Right turning screw",
+            "Standards: ISO 6787, DIN 3117, ASME B107.8-2003 and BS 6333",
+            "Industrial pack",
+            "Better accessibility with 22.5° angled heads",
+            "Greater leverage due to the long handles",
+            "Ultimate strength through precision hardening and high-performance alloy steel"
+        ],
+        "category": "Tools",
+        "subcategory": "Wrenches",
+        "discount": 10
+    },
+    {
+        "name": "Makita B-65523 8 Piece Metric Double Ratchet Wrench Set",
+        "image": "https://cdn.shopify.com/s/files/1/0038/1206/5393/products/B-65523_1800x1800.jpg?v=1646057133",
+        "price": "109.00",
+        "stock": 15,
+        "details": [
+            "Quickly ratchet nuts and bolts without removing the wrench from the fastener",
+            "Longer beam means greater leverage to maximize torque",
+            "Off corner loading provides a stronger grip on fasteners allowing you to apply up to 25% more torque with less rounding",
+            "Innovative design gives you the speed and extra productivity of ratcheting with the access and convenience of an open end wrench",
+            "72 Tooth ratcheting box end needs as little as 5° to move a fastener compared to 30° for a standard box end wrench"
+        ],
+        "category": "Tools",
+        "subcategory": "Wrenches"
+    }
+]
