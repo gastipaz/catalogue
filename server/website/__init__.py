@@ -22,7 +22,7 @@ def create_app():
     sess.init_app(app)
     migrate = Migrate()
 
-    from server.website import models
+    from .models import ProductsTable, OrdersTable
     from .views import views
     
     migrate.init_app(app, db)
