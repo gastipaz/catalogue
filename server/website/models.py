@@ -1,4 +1,4 @@
-from .__init__ import db
+from server.website import db
 from sqlalchemy import event
 from ast import literal_eval
 import json
