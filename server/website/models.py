@@ -56,7 +56,7 @@ class OrdersTable(db.Model):
     email = db.Column(db.String(150))
     user_name = db.Column(db.String(150))
     user_address = db.Column(db.String(1000))
-    card_number = db.Column(db.Integer)
+    card_number = db.Column(db.BigInteger)
     quantity = db.Column(db.Integer)
     date = db.Column(db.DateTime, default=func.now())
 
