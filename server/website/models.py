@@ -80,6 +80,7 @@ class OrdersTable(db.Model):
                 orders_id.append(new_order.order_id)
         return orders_id
 
+#On development environment, this function populates the local database with products after database first creation
 # @event.listens_for(ProductsTable.__table__, 'after_create')
 # def insert_data(*args, **kwargs):
 #     with open('client/src/components/assets/data/products.json', encoding="utf-8") as products:
