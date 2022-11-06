@@ -80,22 +80,22 @@ class OrdersTable(db.Model):
                 orders_id.append(new_order.order_id)
         return orders_id
 
-@event.listens_for(ProductsTable.__table__, 'after_create')
-def insert_data(*args, **kwargs):
-    with open('client/src/components/assets/data/products.json', encoding="utf-8") as products:
-        data = json.load(products)
+# @event.listens_for(ProductsTable.__table__, 'after_create')
+# def insert_data(*args, **kwargs):
+#     with open('client/src/components/assets/data/products.json', encoding="utf-8") as products:
+#         data = json.load(products)
 
-    for value in data:
-        name = value.get('name')
-        image = value.get('image')
-        price = value.get('price')
-        stock = value.get('stock')
-        description = value.get('description')
-        details = value.get('details')
-        category = value.get('category')
-        subcategory = value.get('subcategory')
-        discount = value.get('discount')
+#     for value in data:
+#         name = value.get('name')
+#         image = value.get('image')
+#         price = value.get('price')
+#         stock = value.get('stock')
+#         description = value.get('description')
+#         details = value.get('details')
+#         category = value.get('category')
+#         subcategory = value.get('subcategory')
+#         discount = value.get('discount')
 
-        product = ProductsTable(name=name, image=image, price=price, discount=discount, stock=stock, description=description, details=str(details), category=category, subcategory=subcategory)
-        db.session.add(product)
-        db.session.commit()
+#         product = ProductsTable(name=name, image=image, price=price, discount=discount, stock=stock, description=description, details=str(details), category=category, subcategory=subcategory)
+#         db.session.add(product)
+#         db.session.commit()
