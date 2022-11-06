@@ -1,6 +1,6 @@
 from flask import Flask
 from flask_sqlalchemy import SQLAlchemy
-from os import path
+import os
 from flask_cors import CORS
 from flask_session import Session
 from flask_migrate import Migrate
@@ -12,8 +12,12 @@ def create_app():
     app = Flask(__name__)
     CORS(app)
     app.config['SECRET_KEY'] = 'qwertasdfzxcv'  
+    uri = os.getenv("DATABASE_URL")
+    if uri.startswith("postgres://"):
+        uri = uri.replace("postgres://", "postgresql://", 1)
+    app.config['SQLALCHEMY_DATABASE_URI'] = uri
     # app.config['SQLALCHEMY_DATABASE_URI']=f'sqlite:///{DB_NAME}'
-    app.config['SQLALCHEMY_DATABASE_URI']="postgres://mwxubyhjmhdthp:c8be4834d7fde9ca001ec2f58d7a8e1b2b8149cc569bad7c24ec9b2053ec9f37@ec2-176-34-215-248.eu-west-1.compute.amazonaws.com:5432/d6uemuitmqfsn1"
+    # app.config['SQLALCHEMY_DATABASE_URI']="postgres://mwxubyhjmhdthp:c8be4834d7fde9ca001ec2f58d7a8e1b2b8149cc569bad7c24ec9b2053ec9f37@ec2-176-34-215-248.eu-west-1.compute.amazonaws.com:5432/d6uemuitmqfsn1"
     app.config['SQLALCHEMY_TRACK_MODIFICATIONS']=False
     app.config['SESSION_TYPE'] = 'sqlalchemy'
     db.init_app(app)
