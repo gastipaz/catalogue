@@ -1,2 +1,2 @@
-# catalog
- Product catalog  and e-commerce website
+# catalogue
+ Product catalogue  and e-commerce website
